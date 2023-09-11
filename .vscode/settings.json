@@ -1,12 +1,12 @@
 {
   /* Tailwindcss */
-  "css.validate": false,
+  // "css.validate": false,
   "editor.quickSuggestions": {
     "strings": true
   },
-  "tailwindCSS.includeLanguages": {
-    "plaintext": "html"
-  },
+  // "tailwindCSS.includeLanguages": {
+  //   "plaintext": "html"
+  // },
   "cSpell.words": [
     "Nuxt"
   ]
